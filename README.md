@@ -6,28 +6,27 @@
 
 <br />
 
-I'm a self-taught passionate **Fullstack Developer** from Mexico 🇲🇽
+# 👋 Hi, I'm Salvador Orozco
 
-**About me**
+🎯 **Software developer passionate about learning and building useful tools.**  
+Welcome to my GitHub profile!
 
-- 💼 Currently working on fullstack projects with **React**, **Next.js** and **Prisma**
-- 🛠️ Strong focus on **state management** with Zustand and building scalable UIs with **MUI**
-- 📊 I enjoy testing with **Vitest** and deploying with **Vercel** and **GitHub Actions**
-- 🎯 Passionate about learning and solving algorithmic challenges with **C++**
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="20" alt="nextjs" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="c++" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"></code>
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Salvador511&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Salvador's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador511&layout=compact&theme=react&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Salvador511&show_icons=true&theme=react&layout=compact&hide_border=true" alt="Salvador's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador511&theme=react&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+## 🛠️ Technologies & Tools
+
+- 💻 **Languages:** JavaScript, Python, C++, C#
+- 🌐 **Web Development:** React, Next.js, Node.js, Material-UI (MUI)
+- ⚙️ **Testing & DevOps:** Vitest, Vercel, GitHub Actions
+- 🧠 **Other Skills:** Dynamic Programming, Algorithm Design
+
+## 📚 Currently Learning
+
+- Backend development with Django (Python) and .NET (C#)
+- Deepening my understanding of Dynamic Programming techniques
 
 ## 🚀 Projects
 
 ### 🌍 [OMICHH](https://omichh.org)  
 A programming contest in Chihuahua that promotes logical thinking and problem-solving through computer science.
-
-<br />
-
