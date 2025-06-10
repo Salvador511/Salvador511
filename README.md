@@ -3,7 +3,7 @@
 🎯 **Software developer passionate about learning and building useful tools.**  
 Welcome to my GitHub profile!
 
-[![Salvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvador511&show_icons=true&theme=react)](https://github.com/Salvador511) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador511&theme=react)](https://github.com/Salvador511)
+[![Salvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvador511&show_icons=true&theme=react&layout=compact)](https://github.com/Salvador511) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador511&theme=react&layout=compact)](https://github.com/Salvador511)
 
 ## 🛠️ Technologies & Tools
 
