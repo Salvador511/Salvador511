@@ -5,10 +5,12 @@ Welcome to my GitHub profile!
 
 [![Salvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvador511&show_icons=true&theme=react)](https://github.com/Salvador511)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador511&layout=compact&theme=react)](https://github.com/Salvador511)
+
 ## 🛠️ Technologies & Tools
 
 - 💻 **Languages:** JavaScript, Python, C++, C#
-- 🌐 **Web Development:** React, Next.js, Node.js, Material-UI
+- 🌐 **Web Development:** React, Next.js, Node.js, Material-UI (MUI)
 - ⚙️ **Testing & DevOps:** Vitest, Vercel, GitHub Actions
 - 🧠 **Other Skills:** Dynamic Programming, Algorithm Design
 
