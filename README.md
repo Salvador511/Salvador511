@@ -3,6 +3,8 @@
 🎯 **Software developer passionate about learning and building useful tools.**  
 Welcome to my GitHub profile!
 
+[![Salvador's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvador511&show_icons=true&theme=radical)](https://github.com/Salvador511)
+
 ## 🛠️ Technologies & Tools
 
 - 💻 **Languages:** JavaScript, Python, C++, C#
