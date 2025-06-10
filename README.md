@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Salvador Orozco
 
-<!--
-**Salvador511/Salvador511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software developer passionate about learning and building useful tools.**  
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+
+- 💻 **Languages:** JavaScript, Python, C++, C#
+- 🌐 **Web Development:** React, Next.js, Node.js
+- ⚙️ **DevOps & Platforms:** Vercel, GitHub Actions
+- 🧠 **Other Skills:** Dynamic Programming, Algorithm Design
+
+---
+
+## 📚 Currently Learning
+
+- Backend development with Django (Python) and .NET (C#)
+- Deepening my understanding of Dynamic Programming techniques
+
+---
+
+## 🚀 Projects
+
+### 🌍 [OMICHH](https://omichh.org)  
+A programming contest in Chihuahua that promotes logical thinking and problem-solving through computer science.
+
+---
