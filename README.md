@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/Salvador511">
-    <img width="80%" alt="Hi, I'm Salvador" src="https://raw.githubusercontent.com/Salvador511/Salvador511/main/assets/gh-readme-header.png" />
-  </a>
-</p>
-
-<br />
-
 # 👋 Hi, I'm Salvador Orozco
 
 🎯 **Software developer passionate about learning and building useful tools.**  
