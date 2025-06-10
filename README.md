@@ -8,8 +8,8 @@ Welcome to my GitHub profile!
 ## 🛠️ Technologies & Tools
 
 - 💻 **Languages:** JavaScript, Python, C++, C#
-- 🌐 **Web Development:** React, Next.js, Node.js
-- ⚙️ **DevOps & Platforms:** Vercel, GitHub Actions
+- 🌐 **Web Development:** React, Next.js, Node.js, Material-UI
+- ⚙️ **Testing & DevOps:** Vitest, Vercel, GitHub Actions
 - 🧠 **Other Skills:** Dynamic Programming, Algorithm Design
 
 ## 📚 Currently Learning
