@@ -3,7 +3,6 @@
 🎯 **Software developer passionate about learning and building useful tools.**  
 Welcome to my GitHub profile!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salvador511)](https://github.com/anuraghazra/github-readme-stats)
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Salvador511&show_icons=true&theme=react&layout=compact&hide_border=true" alt="Salvador's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador511&theme=react&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
