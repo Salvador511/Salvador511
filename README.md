@@ -3,9 +3,13 @@
 🎯 **Software developer passionate about learning and building useful tools.**  
 Welcome to my GitHub profile!
 
-| Stats | Lenguajes |
-|-------|-----------|
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Salvador511&show_icons=true&theme=react&layout=compact&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador511&theme=react&layout=compact&hide_border=true" /></a> |_
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Salvador511&show_icons=true&theme=react&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salvador511&layout=compact&theme=react&hide_border=true" height="170"/>
+
+</div>
 
 ## 🛠️ Technologies & Tools
 
